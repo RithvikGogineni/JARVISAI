@@ -2,7 +2,6 @@
 
 ![JARVIS AI](https://img.shields.io/badge/JARVIS-AI-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 JARVIS (Just A Rather Very Intelligent System) is an advanced AI assistant that combines sophisticated technical capabilities with a distinctive personality inspired by the Iron Man universe. This project implements a powerful AI system that can handle various tasks while maintaining an engaging and personable interaction style.
 
